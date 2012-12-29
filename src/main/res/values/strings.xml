@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">wifiPos</string>
+  <string name="app_name">wifiPos</string>
+  <string name="scan">Scan Now!</string>
 </resources>
